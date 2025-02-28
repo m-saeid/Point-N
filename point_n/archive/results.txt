@@ -1,0 +1,146 @@
+Best Gamma: 2716.00, Best Accuracy: 85.21, Sigma: 0.3
+Best Gamma: 2716.00, Best Accuracy: 85.21, Sigma: 0.3, Seed: 40
+Best Gamma: 1816.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 41
+Best Gamma: 2596.00, Best Accuracy: 84.76, Sigma: 0.3, Seed: 42
+Best Gamma: 1628.00, Best Accuracy: 84.44, Sigma: 0.3, Seed: 43
+Best Gamma: 2068.00, Best Accuracy: 84.72, Sigma: 0.3, Seed: 44
+Best Gamma: 1768.00, Best Accuracy: 84.64, Sigma: 0.3, Seed: 45
+Best Gamma: 2606.00, Best Accuracy: 84.93, Sigma: 0.3, Seed: 46
+Best Gamma: 2402.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 47
+Best Gamma: 2256.00, Best Accuracy: 84.85, Sigma: 0.3, Seed: 48
+Best Gamma: 2504.00, Best Accuracy: 84.93, Sigma: 0.3, Seed: 49
+Best Gamma: 2002.00, Best Accuracy: 85.05, Sigma: 0.3, Seed: 0
+Best Gamma: 2194.00, Best Accuracy: 85.29, Sigma: 0.3, Seed: 1
+Best Gamma: 2554.00, Best Accuracy: 84.40, Sigma: 0.3, Seed: 2
+Best Gamma: 2272.00, Best Accuracy: 84.36, Sigma: 0.3, Seed: 3
+Best Gamma: 2134.00, Best Accuracy: 84.97, Sigma: 0.3, Seed: 4
+Best Gamma: 3110.00, Best Accuracy: 84.76, Sigma: 0.3, Seed: 5
+Best Gamma: 2332.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 6
+Best Gamma: 3198.00, Best Accuracy: 84.68, Sigma: 0.3, Seed: 7
+Best Gamma: 2632.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 8
+Best Gamma: 2738.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 9
+Best Gamma: 1638.00, Best Accuracy: 84.56, Sigma: 0.3, Seed: 10
+Best Gamma: 2098.00, Best Accuracy: 84.89, Sigma: 0.3, Seed: 11
+Best Gamma: 2364.00, Best Accuracy: 84.76, Sigma: 0.3, Seed: 12
+Best Gamma: 3032.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 13
+Best Gamma: 1872.00, Best Accuracy: 84.64, Sigma: 0.3, Seed: 14
+Best Gamma: 2516.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 15
+Best Gamma: 2254.00, Best Accuracy: 84.52, Sigma: 0.3, Seed: 16
+Best Gamma: 3056.00, Best Accuracy: 84.68, Sigma: 0.3, Seed: 17
+Best Gamma: 2030.00, Best Accuracy: 84.48, Sigma: 0.3, Seed: 18
+Best Gamma: 2790.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 19
+Best Gamma: 2284.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 20
+Best Gamma: 1856.00, Best Accuracy: 84.89, Sigma: 0.3, Seed: 21
+Best Gamma: 2200.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 22
+Best Gamma: 2348.00, Best Accuracy: 85.17, Sigma: 0.3, Seed: 23
+Best Gamma: 2228.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 24
+Best Gamma: 3200.00, Best Accuracy: 85.09, Sigma: 0.3, Seed: 25
+Best Gamma: 2374.00, Best Accuracy: 84.76, Sigma: 0.3, Seed: 26
+Best Gamma: 2200.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 27
+Best Gamma: 1772.00, Best Accuracy: 84.56, Sigma: 0.3, Seed: 28
+Best Gamma: 2210.00, Best Accuracy: 84.52, Sigma: 0.3, Seed: 29
+Best Gamma: 3536.00, Best Accuracy: 84.24, Sigma: 0.3, Seed: 30
+Best Gamma: 2254.00, Best Accuracy: 84.85, Sigma: 0.3, Seed: 31
+Best Gamma: 2040.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 32
+Best Gamma: 2120.00, Best Accuracy: 84.56, Sigma: 0.3, Seed: 33
+Best Gamma: 1936.00, Best Accuracy: 84.85, Sigma: 0.3, Seed: 34
+Best Gamma: 2290.00, Best Accuracy: 85.21, Sigma: 0.3, Seed: 35
+Best Gamma: 2066.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 36
+Best Gamma: 2464.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 37
+Best Gamma: 2480.00, Best Accuracy: 84.81, Sigma: 0.3, Seed: 38
+Best Gamma: 2240.00, Best Accuracy: 83.95, Sigma: 0.3, Seed: 39
+Best Gamma: 1076.00, Best Accuracy: 76.62, Sigma: 0.05, Seed: 1
+Best Gamma: 1302.00, Best Accuracy: 80.35, Sigma: 0.1, Seed: 1
+Best Gamma: 1848.00, Best Accuracy: 82.33, Sigma: 0.15000000000000002, Seed: 1
+Best Gamma: 1908.00, Best Accuracy: 83.91, Sigma: 0.2, Seed: 1
+Best Gamma: 2042.00, Best Accuracy: 84.76, Sigma: 0.25, Seed: 1
+Best Gamma: 2194.00, Best Accuracy: 85.29, Sigma: 0.3, Seed: 1
+Best Gamma: 2874.00, Best Accuracy: 84.97, Sigma: 0.35000000000000003, Seed: 1
+Best Gamma: 4004.00, Best Accuracy: 85.09, Sigma: 0.4, Seed: 1
+Best Gamma: 3302.00, Best Accuracy: 85.05, Sigma: 0.45, Seed: 1
+Best Gamma: 4150.00, Best Accuracy: 84.89, Sigma: 0.5, Seed: 1
+Best Gamma: 3500.00, Best Accuracy: 84.44, Sigma: 0.55, Seed: 1
+Best Gamma: 3236.00, Best Accuracy: 83.91, Sigma: 0.6000000000000001, Seed: 1
+Best Gamma: 3278.00, Best Accuracy: 83.59, Sigma: 0.6500000000000001, Seed: 1
+Best Gamma: 2400.00, Best Accuracy: 83.18, Sigma: 0.7000000000000001, Seed: 1
+Best Gamma: 3152.00, Best Accuracy: 83.27, Sigma: 0.7500000000000001, Seed: 1
+Best Gamma: 1944.00, Best Accuracy: 74.80, Sigma: 0.3, Seed: 1, Dim: 3
+Best Gamma: 2472.00, Best Accuracy: 83.18, Sigma: 0.3, Seed: 1, Dim: 9
+Best Gamma: 2544.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 1, Dim: 18
+Best Gamma: 2010.00, Best Accuracy: 85.17, Sigma: 0.3, Seed: 1, Dim: 27
+Best Gamma: 2090.00, Best Accuracy: 85.09, Sigma: 0.3, Seed: 1, Dim: 36
+Best Gamma: 2586.00, Best Accuracy: 85.25, Sigma: 0.3, Seed: 1, Dim: 45
+Best Gamma: 2132.00, Best Accuracy: 85.09, Sigma: 0.3, Seed: 1, Dim: 54
+Best Gamma: 2182.00, Best Accuracy: 85.17, Sigma: 0.3, Seed: 1, Dim: 63
+Best Gamma: 2194.00, Best Accuracy: 85.29, Sigma: 0.3, Seed: 1, Dim: 72
+Best Gamma: 2106.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 1, Dim: 81
+Best Gamma: 1182.00, Best Accuracy: 74.80, Sigma: 0.05, Seed: 1, Dim: 45
+Best Gamma: 2324.00, Best Accuracy: 80.27, Sigma: 0.1, Seed: 1, Dim: 45
+Best Gamma: 1954.00, Best Accuracy: 82.17, Sigma: 0.15000000000000002, Seed: 1, Dim: 45
+Best Gamma: 1794.00, Best Accuracy: 84.04, Sigma: 0.2, Seed: 1, Dim: 45
+Best Gamma: 2378.00, Best Accuracy: 84.64, Sigma: 0.25, Seed: 1, Dim: 45
+Best Gamma: 2586.00, Best Accuracy: 85.25, Sigma: 0.3, Seed: 1, Dim: 45
+Best Gamma: 2580.00, Best Accuracy: 84.89, Sigma: 0.35000000000000003, Seed: 1, Dim: 45
+Best Gamma: 3708.00, Best Accuracy: 84.93, Sigma: 0.4, Seed: 1, Dim: 45
+Best Gamma: 3036.00, Best Accuracy: 85.01, Sigma: 0.45, Seed: 1, Dim: 45
+Best Gamma: 3946.00, Best Accuracy: 84.60, Sigma: 0.5, Seed: 1, Dim: 45
+Best Gamma: 3736.00, Best Accuracy: 84.40, Sigma: 0.55, Seed: 1, Dim: 45
+Best Gamma: 4432.00, Best Accuracy: 84.08, Sigma: 0.6000000000000001, Seed: 1, Dim: 45
+Best Gamma: 3594.00, Best Accuracy: 83.63, Sigma: 0.6500000000000001, Seed: 1, Dim: 45
+Best Gamma: 3058.00, Best Accuracy: 83.27, Sigma: 0.7000000000000001, Seed: 1, Dim: 45
+Best Gamma: 3030.00, Best Accuracy: 83.31, Sigma: 0.7500000000000001, Seed: 1, Dim: 45
+Best Gamma: 2102.00, Best Accuracy: 84.36, Sigma: 0.3, Seed: 50, Dim: 45
+Best Gamma: 2258.00, Best Accuracy: 84.76, Sigma: 0.3, Seed: 51, Dim: 45
+Best Gamma: 2644.00, Best Accuracy: 85.41, Sigma: 0.3, Seed: 52, Dim: 45
+Best Gamma: 2222.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 53, Dim: 45
+Best Gamma: 2406.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 54, Dim: 45
+Best Gamma: 2382.00, Best Accuracy: 85.33, Sigma: 0.3, Seed: 55, Dim: 45
+Best Gamma: 2446.00, Best Accuracy: 84.81, Sigma: 0.3, Seed: 56, Dim: 45
+Best Gamma: 2668.00, Best Accuracy: 85.17, Sigma: 0.3, Seed: 57, Dim: 45
+Best Gamma: 2472.00, Best Accuracy: 85.45, Sigma: 0.3, Seed: 58, Dim: 45
+Best Gamma: 2764.00, Best Accuracy: 85.05, Sigma: 0.3, Seed: 59, Dim: 45
+Best Gamma: 2068.00, Best Accuracy: 84.68, Sigma: 0.3, Seed: 60, Dim: 45
+Best Gamma: 2478.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 61, Dim: 45
+Best Gamma: 2630.00, Best Accuracy: 84.56, Sigma: 0.3, Seed: 62, Dim: 45
+Best Gamma: 2902.00, Best Accuracy: 84.81, Sigma: 0.3, Seed: 63, Dim: 45
+Best Gamma: 3108.00, Best Accuracy: 84.28, Sigma: 0.3, Seed: 64, Dim: 45
+Best Gamma: 2198.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 65, Dim: 45
+Best Gamma: 2296.00, Best Accuracy: 84.72, Sigma: 0.3, Seed: 66, Dim: 45
+Best Gamma: 3232.00, Best Accuracy: 84.72, Sigma: 0.3, Seed: 67, Dim: 45
+Best Gamma: 1858.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 68, Dim: 45
+Best Gamma: 1728.00, Best Accuracy: 85.13, Sigma: 0.3, Seed: 69, Dim: 45
+Best Gamma: 2000.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 70, Dim: 45
+Best Gamma: 2690.00, Best Accuracy: 85.09, Sigma: 0.3, Seed: 71, Dim: 45
+Best Gamma: 3220.00, Best Accuracy: 84.52, Sigma: 0.3, Seed: 72, Dim: 45
+Best Gamma: 2844.00, Best Accuracy: 84.93, Sigma: 0.3, Seed: 73, Dim: 45
+Best Gamma: 1746.00, Best Accuracy: 84.72, Sigma: 0.3, Seed: 74, Dim: 45
+Best Gamma: 2418.00, Best Accuracy: 85.21, Sigma: 0.3, Seed: 75, Dim: 45
+Best Gamma: 2238.00, Best Accuracy: 84.48, Sigma: 0.3, Seed: 76, Dim: 45
+Best Gamma: 2140.00, Best Accuracy: 84.60, Sigma: 0.3, Seed: 77, Dim: 45
+Best Gamma: 2248.00, Best Accuracy: 84.72, Sigma: 0.3, Seed: 78, Dim: 45
+Best Gamma: 2018.00, Best Accuracy: 84.97, Sigma: 0.3, Seed: 79, Dim: 45
+Best Gamma: 2230.00, Best Accuracy: 75.89, Sigma: 0.3, Seed: 58, Dim: 3
+Best Gamma: 2336.00, Best Accuracy: 82.94, Sigma: 0.3, Seed: 58, Dim: 9
+Best Gamma: 2662.00, Best Accuracy: 85.01, Sigma: 0.3, Seed: 58, Dim: 18
+Best Gamma: 2366.00, Best Accuracy: 85.17, Sigma: 0.3, Seed: 58, Dim: 27
+Best Gamma: 2356.00, Best Accuracy: 85.25, Sigma: 0.3, Seed: 58, Dim: 36
+Best Gamma: 2472.00, Best Accuracy: 85.45, Sigma: 0.3, Seed: 58, Dim: 45
+Best Gamma: 2534.00, Best Accuracy: 85.29, Sigma: 0.3, Seed: 58, Dim: 54
+Best Gamma: 2578.00, Best Accuracy: 85.33, Sigma: 0.3, Seed: 58, Dim: 63
+Best Gamma: 2310.00, Best Accuracy: 85.25, Sigma: 0.3, Seed: 58, Dim: 72
+Best Gamma: 2558.00, Best Accuracy: 85.29, Sigma: 0.3, Seed: 58, Dim: 81
+Best Gamma: 1368.00, Best Accuracy: 75.32, Sigma: 0.05, Seed: 58, Dim: 45
+Best Gamma: 1842.00, Best Accuracy: 80.15, Sigma: 0.1, Seed: 58, Dim: 45
+Best Gamma: 1648.00, Best Accuracy: 82.82, Sigma: 0.15000000000000002, Seed: 58, Dim: 45
+Best Gamma: 1684.00, Best Accuracy: 84.12, Sigma: 0.2, Seed: 58, Dim: 45
+Best Gamma: 2546.00, Best Accuracy: 85.13, Sigma: 0.25, Seed: 58, Dim: 45
+Best Gamma: 2472.00, Best Accuracy: 85.45, Sigma: 0.3, Seed: 58, Dim: 45
+Best Gamma: 3536.00, Best Accuracy: 85.09, Sigma: 0.35000000000000003, Seed: 58, Dim: 45
+Best Gamma: 3020.00, Best Accuracy: 84.97, Sigma: 0.4, Seed: 58, Dim: 45
+Best Gamma: 3588.00, Best Accuracy: 84.85, Sigma: 0.45, Seed: 58, Dim: 45
+Best Gamma: 3150.00, Best Accuracy: 84.85, Sigma: 0.5, Seed: 58, Dim: 45
+Best Gamma: 3016.00, Best Accuracy: 84.64, Sigma: 0.55, Seed: 58, Dim: 45
+Best Gamma: 4494.00, Best Accuracy: 84.36, Sigma: 0.6000000000000001, Seed: 58, Dim: 45
+Best Gamma: 2720.00, Best Accuracy: 84.08, Sigma: 0.6500000000000001, Seed: 58, Dim: 45
+Best Gamma: 2576.00, Best Accuracy: 83.75, Sigma: 0.7000000000000001, Seed: 58, Dim: 45
+Best Gamma: 2808.00, Best Accuracy: 83.63, Sigma: 0.7500000000000001, Seed: 58, Dim: 45
